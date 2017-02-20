@@ -1271,3 +1271,59 @@ LogInit: Object subsystem initialized
 [2017.02.20-13.14.02:705][341]LogFileHelpers: Auto-saving content packages took 0.025
 [2017.02.20-13.15.05:657][523]LogEditorTransaction: Undo Wrap Widgets
 [2017.02.20-13.15.19:332][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Multiplayer101Menu" FILE="../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101Menu.uasset" SILENT=true
+[2017.02.20-13.15.19:356][339]LogSavePackage: Save=20.08ms
+[2017.02.20-13.15.19:356][339]LogSavePackage: Moving '../../../../../../Users/george/Projects/Multiplayer101/Saved/Multiplayer101Menu935D05F740E5B5A8CA1645949971707B.tmp' to '../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101Menu.uasset'
+[2017.02.20-13.15.19:357][339]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101Menu.uasset
+[2017.02.20-13.16.41:194][528]LogContentBrowser:Verbose: The majority of assets in the view are of type: WidgetBlueprint
+[2017.02.20-13.16.57:355][445]LogSavePackage: Save=17.66ms
+[2017.02.20-13.16.57:355][445]LogSavePackage: Moving '../../../../../../Users/george/Projects/Multiplayer101/Saved/Multiplayer101ServerButtonWidget9AA0F4CD41CF956D7F3B3CA3F4325FDC.tmp' to '../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset'
+[2017.02.20-13.16.57:358][445]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset
+[2017.02.20-13.16.58:584][521]BlueprintLog: New page: Compile Multiplayer101ServerButtonWidget
+[2017.02.20-13.16.59:925][593]LogSavePackage: Save=8.46ms
+[2017.02.20-13.16.59:925][593]LogSavePackage: Moving '../../../../../../Users/george/Projects/Multiplayer101/Saved/Multiplayer101ServerButtonWidget8896E12F4FA4C9F8CEF835938F248B2B.tmp' to '../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset'
+[2017.02.20-13.16.59:926][593]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset
+[2017.02.20-13.17.12:481][578]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.20-13.17.41:913][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Multiplayer101Menu" FILE="../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101Menu.uasset" SILENT=true
+[2017.02.20-13.17.41:935][212]LogSavePackage: Save=19.64ms
+[2017.02.20-13.17.41:935][212]LogSavePackage: Moving '../../../../../../Users/george/Projects/Multiplayer101/Saved/Multiplayer101Menu780EF9F0467F08B30829CC8F3D65424B.tmp' to '../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101Menu.uasset'
+[2017.02.20-13.17.41:937][212]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101Menu.uasset
+[2017.02.20-13.19.07:929][212]LogSavePackage: Save=8.41ms
+[2017.02.20-13.19.07:929][212]LogSavePackage: Moving '../../../../../../Users/george/Projects/Multiplayer101/Saved/Multiplayer101ServerButtonWidgetB196E93545C4061B0F8A949118BB12BC.tmp' to '../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset'
+[2017.02.20-13.19.07:931][212]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset
+[2017.02.20-13.19.08:820][266]BlueprintLog: New page: Compile Multiplayer101ServerButtonWidget
+[2017.02.20-13.19.09:466][292]LogSavePackage: Save=7.52ms
+[2017.02.20-13.19.09:466][292]LogSavePackage: Moving '../../../../../../Users/george/Projects/Multiplayer101/Saved/Multiplayer101ServerButtonWidgetCC9C8C954C51F6D2177E9A98A08349AA.tmp' to '../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset'
+[2017.02.20-13.19.09:467][292]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/george/Projects/Multiplayer101/Content/Blueprints/Multiplayer101ServerButtonWidget.uasset
+[2017.02.20-13.21.24:469][676]BlueprintLog: New page: Compile Multiplayer101Menu
+[2017.02.20-13.21.24:576][676]BlueprintEditorCompileResults: Info No value will be returned by reference. Parameter 'servers'. Node:  K2Node_AddDelegate_54
+[2017.02.20-13.21.27:018][881]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.20-13.21.27:042][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.02.20-13.21.27:042][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.20-13.21.27:046][881]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 20, 2017, 9:21:27 PM)
+[2017.02.20-13.21.27:049][881]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2017.02.20-13.21.27:068][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019340s)
+[2017.02.20-13.21.27:069][881]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.02.20-13.21.27:069][881]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2017.02.20-13.21.27:069][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020834s)
+[2017.02.20-13.21.27:126][881]LogInit: XAudio2 using 'Realtek Digital Output(Optical) (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.02.20-13.21.27:135][881]LogInit: FAudioDevice initialized.
+[2017.02.20-13.21.27:167][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.20-13.21.27:169][881]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.02.20-17.21.27
+[2017.02.20-13.21.27:170][881]LogWorld: Bringing up level for play took: 0.001860
+[2017.02.20-13.21.27:181][881]LogLevel:Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2017.02.20-13.21.27:182][881]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.062
+[2017.02.20-13.21.27:186][881]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 20, 2017, 9:21:27 PM)
+[2017.02.20-13.21.27:187][881]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap
+[2017.02.20-13.21.27:206][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018989s)
+[2017.02.20-13.21.27:207][881]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.02.20-13.21.27:207][881]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2017.02.20-13.21.27:207][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020428s)
+[2017.02.20-13.21.27:272][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.02.20-13.21.27:275][881]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.02.20-17.21.27
+[2017.02.20-13.21.27:275][881]LogWorld: Bringing up level for play took: 0.001919
+[2017.02.20-13.21.27:286][881]LogLevel:Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2017.02.20-13.21.27:293][881]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap 0.173
+[2017.02.20-13.21.27:300][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.02.20-13.21.31:044][135]LogBlueprintUserMessages: [Multiplayer101GameInstance_C_4] Session craeted successfully!
+[2017.02.20-13.21.39:519][636]LogBlueprintUserMessages: [Multiplayer101GameInstance_C_5] Found: 1 games
+[2017.02.20-13.21.45:623][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
